@@ -347,15 +347,15 @@ Handles high-precision decimal calculations without rounding errors, critical fo
 ### Overall Test Status: ✅ **ALL TESTS PASSING** (9/9)
 
 ```
-┌─────────────────────────────┐
-│   TEST EXECUTION SUMMARY    │
-├─────────────────────────────┤
-│ ✅ Passed:        9        │
-│ ❌ Failed:        0        │
-│ ⏭️  Skipped:       0        │
-│ Coverage:      100%        │
-└─────────────────────────────┘
-```
+┌───────────────────────────┐
+│   TEST EXECUTION SUMMARY  │
+├───────────────────────────┤
+│ ✅ Passed:      9         │
+│ ❌ Failed:      0         │
+│ ⏭️  Skipped:    0         |
+│ Coverage:      100%       │
+└───────────────────────────┘
+
 
 ### Coverage by Category
 
