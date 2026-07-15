@@ -275,7 +275,7 @@ Confirms system handles high-value portfolios without overflow or precision loss
 
 ---
 
-## ⚪ Test Case 9: Both Percentages Zero
+## ⚪ Test Case 8: Both Percentages Zero
 
 <details open>
 <summary><strong>TC 09</strong> | Objective: Handle edge case of zero allocations</summary>
@@ -308,7 +308,7 @@ Properly handles position elimination scenarios with no rebalancing action neede
 
 ---
 
-## 🔬 Test Case 10: Floating Point Precision
+## 🔬 Test Case 9: Floating Point Precision
 
 <details open>
 <summary><strong>TC 10</strong> | Objective: Ensure precision with decimal percentages and prices</summary>
