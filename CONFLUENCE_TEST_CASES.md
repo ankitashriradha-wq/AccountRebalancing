@@ -39,8 +39,8 @@ graph LR
 | **TC 05** | 🔴 Error | PASS | Negative % | Exception |
 | **TC 06** | 🔢 Precision | PASS | Rounding Behavior | 6 |
 | **TC 07** | ✅ Normal | PASS | Large Values | 2,000 |
-| **TC 09** | ⚠️ Boundary | PASS | Both Zero | 0 |
-| **TC 10** | 🔢 Precision | PASS | Floating Point | 0 |
+| **TC 08** | ⚠️ Boundary | PASS | Both Zero | 0 |
+| **TC 09** | 🔢 Precision | PASS | Floating Point | 0 |
 
 ---
 
